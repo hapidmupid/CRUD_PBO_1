@@ -1,5 +1,5 @@
 # 🚀 CRUD PBO Tugas 10.1 
-= Implementasikan program GUI dengan datagridview dengan fitur CRUD menggunakan teknik operasi database
+Implementasikan program GUI dengan datagridview dengan fitur CRUD menggunakan teknik operasi database
 
 ![image](https://github.com/user-attachments/assets/99482371-f372-4e54-bb0c-07e653fa20b3)
 
